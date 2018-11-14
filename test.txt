@@ -1,2 +1,3 @@
 test file first commit
 amend head
+rewrite commit test file for rewrite commit message
